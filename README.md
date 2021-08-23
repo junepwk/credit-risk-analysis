@@ -56,3 +56,4 @@ Models used:
 ![easyensemble](https://github.com/junepwk/credit-risk-analysis/blob/main/Resources/easyensemble.png)
 
 ## Summary
+The Easy Ensemble AdaBoost Classifier performed significantly better compared to the other machine learning models/algorithms and the ClusterCentroids performed signifiantly worse with a 54.4% accuracy rate. 
